@@ -2,9 +2,9 @@
     "app":  "TimeTrackOverlay_desktop",
     "windows":  {
                     "stable":  {
-                                   "version":  "0.2.19",
-                                   "link":  "https://github.com/vasiliy1708/TimeTrackOverlay-desktop/releases/download/v0.2.19/TimeTrackOverlay_setup_v0.2.19_x64.exe",
-                                   "sha256":  "44255b5f9167a26fb3b9ab83667965b799d56d6f58ce42be62bf5052db987abc"
+                                   "version":  "0.2.20",
+                                   "link":  "https://github.com/vasiliy1708/TimeTrackOverlay-desktop/releases/download/v0.2.20/TimeTrackOverlay_setup_v0.2.20_x64.exe",
+                                   "sha256":  "96814d282f0df5df01704dedf016b6a5b2039666cf6faf2f1b3b8737cc993eac"
                                }
                 }
 }
